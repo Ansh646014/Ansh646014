@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail: at646014@gmail.com
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: Humans worship what they don’t understand. But give them time... and they will destroy it
-
+- ⚡ Fun fact:
+“I am not who you think I am; I am not who I think I am; I am who I think you think I am”
 <!---
 Ansh646014/Ansh646014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
